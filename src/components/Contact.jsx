@@ -5,7 +5,7 @@ Contact() {
   return (
     <div id="contact" className='max-w-[1040px] m-auto md:pl-20 p-4 py-16'>
         <h1 className='py-4 text-4xl font-bold text-center text-[#001b5e]'>Contact</h1>
-        <form action="" method='POST' encType='multipart/form-data'>
+        <form action="https://getform.io/f/ca76ff6f-362d-4b82-97f7-e84cab7454ae" method='POST' encType='multipart/form-data'>
             <div className='grid md:grid-cols-2 gap-4 w-full py-2' >
                 <div className='flex flex-col'>
                     <label className='uppercase text-sm py-2'>Name</label>
