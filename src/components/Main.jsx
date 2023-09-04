@@ -21,7 +21,7 @@ const Main = () => {
                             1000,
                             'I am a Tester',
                             1000,
-                            'AI Engineer',
+                            'I am an AI Engineer',
                             1000
                         ]}
                         wrapper="div"
